@@ -47,7 +47,7 @@ Java와 Spring 기반의 웹 개발을 주로 하고 있고,
   Java 기반의 알고리즘 풀이 기록
 
 - [item-service](https://github.com/hye000ne/item-service)  
-  Spring Boot 기반 상품관리 미니 프로젝트
+  Spring Boot 기반의 CRUD 상품관리 프로젝트 
 
 ---
 
