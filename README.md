@@ -39,7 +39,9 @@ Java와 Spring 기반의 웹 개발을 주로 하고 있고,
 ---
 
 ## 📁 Repositories
-
+- [나만의 챗봇](https://github.com/hye000ne/MyAssistantJS)
+  JS, HTML, CSS 기반의 나만의 챗봇 프로젝트
+  
 - [sinse_bootcamp](https://github.com/hye000ne/sinse_bootcamp)  
   신세계 I&C 부트캠프 학습 정리
 
