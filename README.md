@@ -13,6 +13,7 @@ Java와 Spring 기반의 웹 개발을 주로 하고 있고,
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=coffeescript&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-003B57?style=flat&logo=apache&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-007396?style=flat&logo=hibernate&logoColor=white)
 
 **Front-End**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -35,29 +36,44 @@ Java와 Spring 기반의 웹 개발을 주로 하고 있고,
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
+**Etc**  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
 ## 📁 Repositories
-- [나만의 챗봇](https://github.com/hye000ne/MyAssistantJS)
-  JS, HTML, CSS 기반의 나만의 챗봇 프로젝트
-  
+
+- [나만의 비서 챗봇 (MyAssistantJS)](https://github.com/hye000ne/MyAssistantJS)  
+  **JS, HTML, CSS** 기반, 다양한 명령어를 지원하는 개인용 생활형 챗봇
+
 - [sinse_bootcamp](https://github.com/hye000ne/sinse_bootcamp)  
-  신세계 I&C 부트캠프 학습 정리
+  **신세계 I&C 부트캠프** 학습 정리 및 프로젝트 기록
 
 - [programmers-java](https://github.com/hye000ne/programmers-java)  
-  Java 기반의 알고리즘 풀이 기록
+  **Java** 기반 알고리즘 문제 풀이 아카이빙
 
 - [item-service](https://github.com/hye000ne/item-service)  
-  Spring Boot 기반의 CRUD 상품관리 프로젝트 
+  **Spring Boot** 기반 CRUD 상품 관리 프로젝트
 
 ---
 
-## 🎯 Currently Learning
+## 🎯 What I'm Working On
 
-- Spring Boot 구조화와 실무 중심 백엔드 설계  
-- DB 모델링 & SQL 튜닝 연습  
-- Git 기반 협업 경험 정리  
-- 알고리즘 문제 풀이 루틴화  
+- **Spring Boot** 기반 실사용자 중심 개발
+- **DB 모델링과 메타 통계 목적의 데이터 목록 구성**
+- **Git** 기본자 경험과 협업 도구를 통해 협업 경험 효율화
+- 알고리즘 문제 풀이 일일 목표 구성 및 극대화
 
-하루 한 커밋이라도 기록을 남기려고 노력 중입니다 :)
+> 아직 부족하게 잘 하지 못해도, 가장 중요한 것은 계속하는 것이라고 믿습니다. 🚀
+
+---
+
+## 🌱 Contact
+
+📧 _hye_one@daum.net
+
+---
+
+### 🌱 I Believe:
+> **꾸준함이 만드는 성장**  
+> 오늘보다 나은 개발자가 되기 위해, 하나하나 힘을 발 보내고 있습니다.
