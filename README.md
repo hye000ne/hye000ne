@@ -42,6 +42,8 @@ Java와 Spring 기반의 웹 개발을 주로 하고 있고,
 ---
 
 ## 📁 Repositories
+- [WMS, SHOP 통합 시스템](https://github.com/hye000ne/eoneifour)  
+  **JAVA SWING** 기반, 창고관리/쇼핑몰 통합 프로젝트
 
 - [나만의 비서 챗봇 (MyAssistantJS)](https://github.com/hye000ne/MyAssistantJS)  
   **JS, HTML, CSS** 기반, 다양한 명령어를 지원하는 개인용 생활형 챗봇
