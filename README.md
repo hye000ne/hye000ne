@@ -42,6 +42,9 @@ Java와 Spring 기반의 웹 개발을 주로 하고 있고,
 ---
 
 ## 📁 Repositories
+- [Spring4, JSP 스마트 스토어](https://github.com/hye000ne/intellimarket)  
+  **SPRING4, JSP, MySQL** 기반, 스마트 스토어 쇼핑몰 프로젝트
+
 - [WMS, SHOP 통합 시스템](https://github.com/hye000ne/eoneifour)  
   **JAVA SWING** 기반, 창고관리/쇼핑몰 통합 프로젝트
 
@@ -53,9 +56,6 @@ Java와 Spring 기반의 웹 개발을 주로 하고 있고,
 
 - [programmers-java](https://github.com/hye000ne/programmers-java)  
   **Java** 기반 알고리즘 문제 풀이 아카이빙
-
-- [item-service](https://github.com/hye000ne/item-service)  
-  **Spring Boot** 기반 CRUD 상품 관리 프로젝트
 
 ---
 
